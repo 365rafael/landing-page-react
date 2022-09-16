@@ -1,0 +1,57 @@
+.App-logo {
+  width: 10rem;
+    height: 5rem;
+    margin-left: 5rem;
+    margin-top: 1rem;
+  }
+  
+  .App-contato {
+    background-color: #282c34;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    
+    
+    
+       
+  }
+  .contato{
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+  }
+  
+
+  .form-box{
+    
+    width: 100%;   
+       
+  }
+
+  .form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .input{
+    margin: 6px;
+    height: 30px;
+    width: 300px;
+    border-radius: 6px;
+  }
+
+  .mensagem{
+    margin: 6px;
+    height: 90px;
+    width: 300px;
+    border-radius: 6px;
+  }
+  .button{
+    border-radius: 6px;
+    margin: 6px;
+    height: 30px;
+    width: 300px;
+    
+  }
+    

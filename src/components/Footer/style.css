@@ -1,0 +1,19 @@
+
+  
+  .App-footer {
+    background-color: #282c34;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    display: flex;
+    justify-content: center;
+    
+    font-style: italic;
+    font-size: 14px;
+    padding-top: 20px;
+         
+  }
+  
+  a{
+    text-decoration: none;
+    color: white;
+  }
